@@ -1,0 +1,658 @@
+proxies:
+- client-fingerprint: chrome
+  name: 10G试用智能线路-1A
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 99469224-79e7-4488-84ce-d65498f56c34
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: '10G试用智能线路-1A #2'
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: dd7d294e-011d-45d9-9f84-b8b91e84b68a
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: '10G试用智能线路-1B #2'
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 2af7f81e-b3ac-4b08-9699-2d2c48fbe7da
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-1D
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 04af97c1-54c3-40ee-acf5-7046d6c15a98
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: '10G试用智能线路-1F #2'
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 8f4f2840-8a0a-4642-95ef-4388f7b3b3d0
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-1G
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4030fada-42b9-4e69-9207-c652c970f519
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: '10G试用智能线路-1G #2'
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 55196ef4-46ee-4a8f-8e85-f6ec61a7163c
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-1H
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: a42c4f97-9961-446f-8fe5-e1ca819f3265
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: '10G试用智能线路-1H #2'
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 50d21047-5f51-4d23-b113-790c41e5d20c
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-1J
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 092c0baf-1807-422b-a444-206664d90105
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: '10G试用智能线路-1J #2'
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 58645715-e42a-4c61-b7bb-09524700927f
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-1N
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 54496b94-a9b4-47f7-89bc-3dd8f1ce7b46
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: '10G试用智能线路-1N #2'
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: cf99b47a-d41f-447c-b928-a38670b8ed43
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: '10G试用智能线路-1O #2'
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 34d329f6-612d-4f8a-9f67-89750c94c17f
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-1P
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 69b2ba5d-bfcd-4217-9534-08bb2aa09db0
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-1Q
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: d3bf8061-844f-4dc0-a371-5edb96847059
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-1T
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: ed5987e0-11a9-4adc-ad2f-f9a0c6aeaf48
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-1U
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: b63eb43f-7d7d-4048-a073-d382b1d12312
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-1V
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: fdfbff9d-a10d-46f4-a46f-59395943f111
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-1x
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 36691571-758e-4680-9c87-042e8a63a9a2
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2B
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: cf00c4e1-a9d3-40dc-bb6f-9d07a52ba129
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2C
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: b9177aef-389a-43d8-9ae7-9b6a63403e5b
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2D
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: f5a4f34d-e77c-4e8d-b6fd-88043a56fcd8
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2E
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: ad502e41-0580-4375-a49c-2d3594ae7a72
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2G
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 00699035-d325-4e74-91b0-222eb72c7c13
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2I
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: aa5d1f8b-86e0-4da5-bb09-973f60c6c27b
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2J
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 2f7e339b-8493-4810-a3c7-4f356a2ffa73
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2K
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 564aa714-5cd0-4185-9dc8-06b7fe3ad080
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2M
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 82109652-cbde-47ee-b5f6-cd7ffc0fe2b8
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2O
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: ae761cbf-0d32-4dec-8c6a-a35ff7089110
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2P
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5425456d-d88b-4941-ab25-915712016f73
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2Q
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 15527225-7d95-42a1-bfd9-de71971ff5f2
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2R
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 15db28e5-1ac5-4f7c-9a39-95cc672fb6a7
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2S
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: efebd8d9-6a15-405d-b903-9064e45b29ed
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2U
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: fa3719d3-f146-428a-8f2f-dc723d8736c6
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2V
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: cf908ab6-a4c2-40be-a42a-9636dac3ae3b
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2W
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 6c1c8f91-1202-4744-9057-8cade0133002
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2Z
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: a046a0a0-e178-40d8-9b93-5cf015d782f2
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-2x
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: dcd05136-2e82-4f3b-a134-3e50b93c219d
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-3A
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 136e1146-1d4f-4e08-bdca-492fce4808e7
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-3B
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 2d579e17-297e-4715-95af-e728a33ed9d8
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-3D
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 94b1f68d-f062-466d-933f-f83f43a09eee
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-3P
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 566a5678-6b2c-44cb-bc7a-5b2dcaa90421
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-3Q
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: b03f9676-dcb9-46d5-9ca7-dea091102ec7
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-3R
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: 60e89203-f820-4d05-a217-0494153da4ea
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 10G试用智能线路-3T
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  udp: true
+  uuid: d7c08563-d120-41cf-bfb8-420ee5081631
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /trial-gs-relay
+- client-fingerprint: chrome
+  name: 🇲🇾 1Z-FMY
+  network: ws
+  port: 443
+  server: www.usyun.cc
+  servername: usyun.cc
+  tls: true
+  type: vless
+  uuid: bd56c524-fe1f-4f89-9450-b97629109350
+  ws-opts:
+    headers:
+      Host: usyun.cc
+    path: /usyun-probe
